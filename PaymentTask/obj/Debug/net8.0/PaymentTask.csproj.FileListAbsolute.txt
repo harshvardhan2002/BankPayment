@@ -1,0 +1,14 @@
+C:\Users\Harshvardhan Gupta\source\repos\PaymentTask\bin\Debug\net8.0\PaymentTask.exe
+C:\Users\Harshvardhan Gupta\source\repos\PaymentTask\bin\Debug\net8.0\PaymentTask.deps.json
+C:\Users\Harshvardhan Gupta\source\repos\PaymentTask\bin\Debug\net8.0\PaymentTask.runtimeconfig.json
+C:\Users\Harshvardhan Gupta\source\repos\PaymentTask\bin\Debug\net8.0\PaymentTask.dll
+C:\Users\Harshvardhan Gupta\source\repos\PaymentTask\bin\Debug\net8.0\PaymentTask.pdb
+C:\Users\Harshvardhan Gupta\source\repos\PaymentTask\obj\Debug\net8.0\PaymentTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harshvardhan Gupta\source\repos\PaymentTask\obj\Debug\net8.0\PaymentTask.AssemblyInfoInputs.cache
+C:\Users\Harshvardhan Gupta\source\repos\PaymentTask\obj\Debug\net8.0\PaymentTask.AssemblyInfo.cs
+C:\Users\Harshvardhan Gupta\source\repos\PaymentTask\obj\Debug\net8.0\PaymentTask.csproj.CoreCompileInputs.cache
+C:\Users\Harshvardhan Gupta\source\repos\PaymentTask\obj\Debug\net8.0\PaymentTask.dll
+C:\Users\Harshvardhan Gupta\source\repos\PaymentTask\obj\Debug\net8.0\refint\PaymentTask.dll
+C:\Users\Harshvardhan Gupta\source\repos\PaymentTask\obj\Debug\net8.0\PaymentTask.pdb
+C:\Users\Harshvardhan Gupta\source\repos\PaymentTask\obj\Debug\net8.0\PaymentTask.genruntimeconfig.cache
+C:\Users\Harshvardhan Gupta\source\repos\PaymentTask\obj\Debug\net8.0\ref\PaymentTask.dll
